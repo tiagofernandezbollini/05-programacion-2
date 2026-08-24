@@ -72,9 +72,13 @@ ANKUDOWICZ Azul Elena - 36832 - Github: AzulAnku
 ### TUP11 - Grupo 4
 
 RINGUELET Emilia - 36601 - emiliaringuelet
+
 ASNGHI Catalina - 36836 - cataasnaghi08
+
 FERNANDEZ BOLLINI - 36709 - tiagofb
+
 SOTO Elio Agustin - 36612 - soto-agustin
+
 
 
 ---
